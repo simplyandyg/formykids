@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 Letting go of grudges is incredibly important. Holding on to anger, resentment, and the grudges requires energy that is honestly a waste of your time. Being able to let go of that is very good for your mental health and your personal well-being. By harboring those negative emotions and feelings you are actually letting the person that created them win because now they're holding you down and holding you back indefinitely.
 

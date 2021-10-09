@@ -1,3 +1,6 @@
+---
+draft: true
+---
 
 In today's society there's a huge focus on "staying positive". That's a great message. I think it's important to stay positive in respect to our general attitude towards everyday life. If you ask me, I think having a generally positive attitude is the way to live. You're more likely to be successful and forge good, lasting relationships. However, it's also completely okay to not stay positive sometimes.
 

@@ -15,3 +15,15 @@ Welcome to this blog. This blog is created with [**Docusaurus 2**](https://docus
 This is a test post.
 
 A whole bunch of other information.
+
+## A heading test in the blog
+
+Here is some test content
+
+## another heading
+
+More stuff
+
+### sub heading test
+
+Let's see what shows up in the sidebar on the right side
