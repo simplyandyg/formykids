@@ -1,5 +1,4 @@
 ---
-date: 2020-01-01
 draft: true
 ---
 
@@ -24,32 +23,33 @@ If you could only teach someone 5 things. What would you teach them?
 
 
 
-1. Sleep, exercise, diet
-2. Be open and vulnerable, but don't get walked on. Limit the numbers of times a single person can screw you over.
-3. Active Listening
-4. Take time to do things you enjoy no matter how "busy" you are. - leading into Essentialism. Strip away the things that are not important to you or your goals.
-5. Do the right thing
-6. Why doing the right thing can so often have difficult or hurtful consequences - why making people upset doesn’t mean you necessarily did the wrong thing - why often you can try to become a better person and it feels impossible because things keep going wrong and how to deal with it
-7. How to focus and really get things done and how hard work doesn't need to mean working all the time, but rather working hard during the allotted time
-8. Never let yourself live in fear - give lots of examples - fear of making people angry, fear your spouse will be upset with you, fear of failure, do not let fear rule your life
-9. How to balance perfection with production
-10. Meditate or at least time for your mind to relax and to wander. No screens, no music (unless calming), no input. Let yourself be calm and bored. Give your mind time to relax, especially in today's world
-11. Plan and be spontaneous at the same time
-12. Growth mindset
-13. Open-mindedness
-14. Meta-cognition (thinking about how you think) and what mental models are, not necessarily any specific ones but just the concept
-15. Write to think deeply. Thinking a lot about something is not the same as thinking deeply. Thinking about something "a lot" doesn't mean a couple minutes here and there with only surface level thoughts. Work through the garbage to get to the good stuff. What questions to ask? Which decisions warrant deep thought?
-16. Don't be mentally lazy. We often over estimate the amount of effort and time required to complete relatively simple tasks while underestimating large ones (e.g. entire projects)
-17. Knowledge depth vs. Surface knowledge. Surface knowledge is something anyone can learn with a quick Google search. And today's world where the internet is everywhere surface knowledge is becoming less and less useful. Deep knowledge however is becoming more and more important and valuable. As is being able to make connections and insights across fields or disciplines often thanks to the deep knowledge one holds.
-18. Compounding
-19. Beginner's mind
-20. Deliberate practice
-21. Thirst for knowledge and a love of learning. Learn deeply on what interests you, the hell with whether or not someone thinks it is useful. There are very few subjects where a deep knowledge of it is useless and holds no value.
-22. How to be smarter?
-23. How to develop habits
-24. Strategic thinking?
-25. Thinking outside the box
-26. The law of averages - you don’t have to be exceptional every day, but if you are most days then you’re okay. You don’t have to have perfect sleep every night but if you do most nights, you’re doing good.
+- Sleep, exercise, diet
+- Be open and vulnerable, but don't get walked on. Limit the numbers of times a single person can screw you over.
+- Active Listening
+- Take time to do things you enjoy no matter how "busy" you are. - leading into Essentialism. Strip away the things that are not important to you or your goals.
+- Do the right thing
+- Why doing the right thing can so often have difficult or hurtful consequences - why making people upset doesn’t mean you necessarily did the wrong thing - why often you can try to become a better person and it feels impossible because things keep going wrong and how to deal with it
+- How to focus and really get things done and how hard work doesn't need to mean working all the time, but rather working hard during the allotted time
+- Never let yourself live in fear - give lots of examples - fear of making people angry, fear your spouse will be upset with you, fear of failure, do not let fear rule your life
+- How to balance perfection with production
+- Meditate or at least time for your mind to relax and to wander. No screens, no music (unless calming), no input. Let yourself be calm and bored. Give your mind time to relax, especially in today's world
+- Plan and be spontaneous at the same time
+- Growth mindset
+- Open-mindedness
+- How do you define success? It should not be all about money. It should be much deeper than that. Life goals such as having time to relax and spending with friends and family. Maybe having a family. Meeting a person to spend your life with. Etc.
+- Meta-cognition (thinking about how you think) and what mental models are, not necessarily any specific ones but just the concept
+- Write to think deeply. Thinking a lot about something is not the same as thinking deeply. Thinking about something "a lot" doesn't mean a couple minutes here and there with only surface level thoughts. Work through the garbage to get to the good stuff. What questions to ask? Which decisions warrant deep thought?
+- Don't be mentally lazy. We often over estimate the amount of effort and time required to complete relatively simple tasks while underestimating large ones (e.g. entire projects)
+- Knowledge depth vs. Surface knowledge. Surface knowledge is something anyone can learn with a quick Google search. And today's world where the internet is everywhere surface knowledge is becoming less and less useful. Deep knowledge however is becoming more and more important and valuable. As is being able to make connections and insights across fields or disciplines often thanks to the deep knowledge one holds.
+- Compounding
+- Beginner's mind
+- Deliberate practice
+- Thirst for knowledge and a love of learning. Learn deeply on what interests you, the hell with whether or not someone thinks it is useful. There are very few subjects where a deep knowledge of it is useless and holds no value.
+- How to be smarter?
+- How to develop habits
+- Strategic thinking?
+- Thinking outside the box
+- The law of averages - you don’t have to be exceptional every day, but if you are most days then you’re okay. You don’t have to have perfect sleep every night but if you do most nights, you’re doing good.
 
 [https://twitter.com/TrungTPhan/status/1444684286955687945?s=19](https://twitter.com/TrungTPhan/status/1444684286955687945?s=19)
 
