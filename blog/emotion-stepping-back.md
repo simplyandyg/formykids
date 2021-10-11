@@ -1,4 +1,5 @@
 ---
+tags: [emotion]
 draft: true
 ---
 
