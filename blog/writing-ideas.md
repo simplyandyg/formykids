@@ -1,7 +1,7 @@
 ---
 draft: true
 ---
-
+Test
 a series on all the things I would like Mikey to know and understand in life, especially should anything ever happen to me
 
 For each topic, maybe I should be approaching it with the following framework:
