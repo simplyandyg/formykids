@@ -182,13 +182,17 @@ Here are some things you can do to help improve sleep quality:
 
 #### How to determine your ideal amount of sleep?
 
-The best way to determine your ideal amount of nightly sleep is to avoid setting an alarm for a couple of weeks. If you can do this, record when you laid down for sleep and what time you woke up. Use those times to determine your length of sleep. Then calculate how many hours you slept on average over the course of the two weeks. Now, decide what time you need to wake up in the morning. Use your average length of required sleep and your desired wake up time to determine when you should go to bed each night.
+**The best way** to determine your ideal amount of nightly sleep is to avoid setting an alarm for a couple of weeks. If you can do this, record when you laid down for sleep and what time you woke up. Use those times to determine your length of sleep. Then calculate how many hours you slept on average over the course of the two weeks. Now, decide what time you need to wake up in the morning. Use your average length of required sleep and your desired wake up time to determine when you should go to bed each night.
 
 You can also add 15-30 minutes of buffer time to your average if you'd like. This will give you a better chance of waking up naturally, before your alarm rips you from sleep.
 
-Start here next:
+**Option 2:** If you can't avoid setting an alarm then experiment with different lengths of sleep. I suggest starting with a longer period of time such as 9-10 hours. To some, this amount may sound excessive, and to others it may sound like a dream or even an impossibility. This will be an experiment for only a couple weeks to find your ideal sleep length. Find a way to commit to the time and experiment. For many people, allowing 9-10 hours for sleep will have you naturally waking up in the morning before your alarm does off. Record when you laid down in bed and when you woke up for the day. Do this for two weeks. Calculate the average amount of sleep you needed to wake up naturally. From now on use this amount of sleep to determine what time you set your alarm for. 
 
-If you can't avoid setting an alarm then experiment with different lengths of sleep. I suggest starting with a longer period of time such as 9-10 hours. Also, don't lie to yourself about how little sleep you need. It's not a badge of honor. If you feel tired every day, odds are you need to sleep longer and be more consistent with when you sleep. You want to avoid sleeping too long as well.
+As mentioned above, feel free to add 15-30 minutes of buffer time to help ensure you wake up naturally.
+
+(Here next)
+
+Don't lie to yourself about how little sleep you need. It's not a badge of honor. If you feel tired every day, odds are you need to sleep longer and be more consistent with when you sleep. You want to avoid sleeping too long as well.
 
 You can't exactly force your body into a quality sleep, but you can help it along. Room temperature (cooler is often better) and a comfortable place to sleep also contributes to quality sleep. A good pre-sleep routine, consistent exercise, and low-stress levels improve sleep quality. Find ideas for habits to help form a good sleep routine here: [https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults](https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults)
 

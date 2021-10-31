@@ -52,6 +52,8 @@ If you could only teach someone 5 things. What would you teach them?
 - The law of averages - you don’t have to be exceptional every day, but if you are most days then you’re okay. You don’t have to have perfect sleep every night but if you do most nights, you’re doing good.
 - make your own opportunities and don't wait for them to come to you. Ex: I have been waiting for better job offers and more complex work, but I should have going out to find both of those things. I could have been working on upgrading Laravel or fixing V3 or Workscopes on my own as a personal side project instead of expecting management to give me time. It's not about not doing work for free. It's about using that "free work" to build your skills and resume. And having a chance to drop your hard work directly into the hands of people who will use it every day
 - we need to be grateful for all that we have and all the good in our life because it's 99.9% due to luck
+- learn to stop saying you can't or you don't have time (when it's really just that you refuse to give up something else I. E. You won't give up TV to workout after work)
+- learn to stop saying you "have to do X" when you don't have to. You're making a choice to because the alternative is either uncomfortable or you refuse to find one
 
 [https://twitter.com/TrungTPhan/status/1444684286955687945?s=19](https://twitter.com/TrungTPhan/status/1444684286955687945?s=19)
 
