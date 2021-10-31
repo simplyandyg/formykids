@@ -7,12 +7,14 @@ tags: [health, sleep, diet, exercise]
 
 Sleep. Eat clean. Exercise. If I had to put an order to their importance that would be it, despite exercise being my favorite.
 
-Todo:
+Disclaimer:
+I'm not a medical professional, dietician, or certified personal trainer. So none of this is medical advice. I'm just a guy who reads a lot, is constantly trying to improve myself and my life, and wants to leave a record of those learnings for his kids.
+
+(Todo:
 
 What how why for the intro
 
-Get into why staying healthy is important. It's not only to avoid illness or living a long life. It's living with less pain and aggravation. Make you love slightly harder to avoid the truly difficult aspects of chronic illness
-
+Get into why staying healthy is important. It's not only to avoid illness or living a long life. It's living with less pain and aggravation. Make you love slightly harder to avoid the truly difficult aspects of chronic illness)
 
 ## Summary:
 
@@ -66,32 +68,21 @@ The benefits of sleep, eating well, and exercise overlap, intertwine, and build 
 
 Lacking in any of these categories can lead to serious health problems.
 
-If we aren’t trying to be elite athletes...
-
+**If we aren’t trying to be elite athletes...**
 We don’t need to train like elite athletes.
-
 We don’t need to be the strongest.
-
 We don’t need to be the fastest.
-
 We don’t need to optimize every variable.
 
-What we do need:
-
+**What we do need:**
 Stay healthy.
-
 Avoid injury.
-
 Enjoy life.
 
-How can we do it?
-
+**How can we do it?**
 Sleep.
-
 Eat clean.
-
 Follow a sustainable fitness plan.
-
 Be consistent in the above.
 
 It does not take as much time and effort to reap near optimal health and fitness results as many people think. You do not need to spend time optimizing every variable. More than anything else, optimal health requires consistency.
@@ -116,7 +107,7 @@ Sleep consistency has two main components: time of day and length of (preferably
 
 #### What is uninterrupted sleep?
 
-Uninterrupted sleep is sleeping without waking for an extended period of time. Everyone wakes up during a night of sleep. Whether it is to use the bathroom, adjust the blankets, or roll over. All of us wake up. It is perfectly normal. It becomes an issue when you are unable to fall back to sleep in less than a few minutes. Or when you find yourself waking up more than a few times a night. This also ties in with sleep efficiency, which is the ratio of time sleep vs time spent laying in bed trying to sleep. You want to be at 85% or higher.
+Uninterrupted sleep is sleeping without waking for an extended period of time. Everyone wakes up during a night of sleep. Whether it is to use the bathroom, adjust the blankets, or roll over. It is perfectly normal. It becomes an issue when you are unable to fall back to sleep in less than a few minutes. Or when you find yourself waking up more than a few times a night. This also ties in with sleep efficiency, which is the ratio of time sleep vs time spent laying in bed trying to sleep. You want to be at 85% or higher.
 
 Of course, there will be times when it is not possible to avoid interruptions. But try to keep those times to a minimum and make uninterrupted, consistent sleep your norm.
 
@@ -136,8 +127,6 @@ A lack of sleep can lead to numerous short-term and long-term effects.
 
 Possible short-term effects:
 
-
-
 * Lack of alertness
 * Slower reflexes
 * Impaired memory
@@ -147,9 +136,8 @@ Possible short-term effects:
 * Decreased muscle recovery
 * Increased inflammation
 
+
 Possible long-term effects:
-
-
 
 * Weight gain
 * Depression
@@ -169,15 +157,47 @@ Possible long-term effects:
 
 Start with improving your sleep quality. Once you work on that, you will be able to better gauge what length of sleep your body needs.
 
+#### How to improve sleep quality?
 Here are some things you can do to help improve sleep quality:
 
-
-
+**Prep your sleep area**
 * Play around with room temperature. Cooler is often better.
-* Sleep on a comfortable surface.
+* Have a comfortable surface to sleep on.
+* Use blackout curtains
+* Remove all clock faces from the bedroom. Knowing what time it is doesn't benefit you. It often has a negative causes anxiety about how much time is left for sleep or how long you have been trying to fall asleep.
+* Remove all light sources.
+* Leave your phone out of the room or at least flip it over and put it on do not disturb. This prevents it from waking you, but also prevents the screen from being a light source.
+* Place a pen and paper on your night stand to write down anything that may be keeping you up at night
+
+**Develop a good pre-sleep routine**
+You don't have to do all these things, but incorporating some may help you fall asleep faster and sleep better through the night.
+* No screen time within the hour before bed
+* Meditate
+* Read from a physical book or e-reader designed for night time reading such as the Kindle Paperwhite
+* Take a warm bath
+* Drink tea
+* Stretch
+* Do some deep breathing
+* Journal - write about your day, write a to-do list of anything running through your head that you're afraid to forget, write down anything making you anxious
+* Consuming tart cherry or kiwi was shown in studies to potentially improve sleep
+
+**Day-time activities to help you sleep**
 * Exercise.
-* Keep your stress levels low. I know it is easier said than done, but it is important to maintaining quality sleep.
-* Develop a good pre-sleep routine.
+* Try to keep your stress levels low.
+* Get direct sunlight (real sunlight) for 15-30 minutes after waking. Sunlight entering your eyes helps kick off your bodies wakefulness, which in turn starts your biological clock for when to wind down for sleep.
+* Don't consume caffeine within 10 hours of your bedtime.
+* Don't drink alcohol - if you do, try to avoid it within 6 hours of your bed time.*
+* Don't do drugs.*
+* Avoid taking sleep medications if possible*
+
+*Most drugs, including some sleep medications, have a negative impact on the quality of your sleep. Even if they help you fall asleep, the overall quality of sleep will not be as high.
+
+[https://gmb.io/sleep/](https://gmb.io/sleep/)
+
+[https://hubermanlab.com/toolkit-for-sleep/](https://hubermanlab.com/toolkit-for-sleep/)
+
+#### Last word on sleep
+I understand this may seem excessive. I don't expect anyone to do it all. Not everyone needs it all. It's about being honest with yourself about your needs and finding what works for you.
 
 
 #### How to determine your ideal amount of sleep?
@@ -190,30 +210,12 @@ You can also add 15-30 minutes of buffer time to your average if you'd like. Thi
 
 As mentioned above, feel free to add 15-30 minutes of buffer time to help ensure you wake up naturally.
 
-(Here next)
 
-Don't lie to yourself about how little sleep you need. It's not a badge of honor. If you feel tired every day, odds are you need to sleep longer and be more consistent with when you sleep. You want to avoid sleeping too long as well.
+#### Additional material on how to improve sleep
 
-You can't exactly force your body into a quality sleep, but you can help it along. Room temperature (cooler is often better) and a comfortable place to sleep also contributes to quality sleep. A good pre-sleep routine, consistent exercise, and low-stress levels improve sleep quality. Find ideas for habits to help form a good sleep routine here: [https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults](https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults)
+[Dr. Andrew Huberman podcast with Dr. Matthew Walker](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/)
 
-Real direct sunlight (real sunlight) for 15-30 minutes after waking. The key is for the light to enter your eyes as it helps to kick off your bodies wakefulness, which in turn starts your biological clock for how long it has before starting to wind down again for sleep.
-
-Don't consume caffeine within 10 hours of your bedtime.
-
-Most drugs, including some sleep aids, have a negative impact on the quality of your sleep. Even if they help you fall asleep, the sleep you get will not be as good when using certain sleep aids.
-
-[https://gmb.io/sleep/](https://gmb.io/sleep/)
-
-[https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/)
-
-[https://hubermanlab.com/toolkit-for-sleep/](https://hubermanlab.com/toolkit-for-sleep/)
-
-Journal your anxieties before bed
-
-Remove all clock faces from the bedroom - knowing what time it is doesn't benefit you and it's often detrimental to your mood and anxiety and your ability to fall asleep because your ruminate in it
-
-Tart cherry, kiwi, might help - do we want to mention this?
-
+(Breaking down eating is next after how to improve sleep quality)
 
 ## Eat Well.
 
