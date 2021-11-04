@@ -1,7 +1,6 @@
 ---
-title: Three Pillars of Health
+title: On Sleep, Diet, and Exercise
 authors: [agiroux]
-date:
 tags: [health, sleep, diet, exercise]
 ---
 
@@ -206,7 +205,7 @@ I understand this may seem excessive. I don't expect anyone to do it all. Not ev
 
 You can also add 15-30 minutes of buffer time to your average if you'd like. This will give you a better chance of waking up naturally, before your alarm rips you from sleep.
 
-**Option 2:** If you can't avoid setting an alarm then experiment with different lengths of sleep. I suggest starting with a longer period of time such as 9-10 hours. To some, this amount may sound excessive, and to others it may sound like a dream or even an impossibility. This will be an experiment for only a couple weeks to find your ideal sleep length. Find a way to commit to the time and experiment. For many people, allowing 9-10 hours for sleep will have you naturally waking up in the morning before your alarm does off. Record when you laid down in bed and when you woke up for the day. Do this for two weeks. Calculate the average amount of sleep you needed to wake up naturally. From now on use this amount of sleep to determine what time you set your alarm for. 
+**Option 2:** If you can't avoid setting an alarm then experiment with different lengths of sleep. I suggest starting with a longer period of time such as 9-10 hours. To some, this amount may sound excessive, and to others it may sound like a dream or even an impossibility. This will be an experiment for only a couple weeks to find your ideal sleep length. Find a way to commit to the time and experiment. For many people, allowing 9-10 hours for sleep will have you naturally waking up in the morning before your alarm does off. Record when you laid down in bed and when you woke up for the day. Do this for two weeks. Calculate the average amount of sleep you needed to wake up naturally. From now on use this amount of sleep to determine what time you set your alarm for.
 
 As mentioned above, feel free to add 15-30 minutes of buffer time to help ensure you wake up naturally.
 
