@@ -180,24 +180,22 @@ You don't have to do all these things, but incorporating some may help you fall 
 * Do some deep breathing
 * Journal - write about your day, write a to-do list of anything running through your head that you're afraid to forget, write down anything making you anxious
 * Consuming tart cherry or kiwi was shown in studies to potentially improve sleep
+* Set an alarm or reminder 15-60 minutes before your bedtime to remind you to start your sleep routine and get ready for bed
 
 **Day-time activities to help you sleep**
 * Exercise.
 * Try to keep your stress levels low.
-* Get direct sunlight (real sunlight) for 15-30 minutes after waking. Sunlight entering your eyes helps kick off your bodies wakefulness, which in turn starts your biological clock for when to wind down for sleep.
+* Go outside for 15-30 minutes after waking. Sunlight entering your eyes helps kick off your bodies wakefulness, which in turn starts your biological clock for when to wind down for sleep. Artificial sunlight doesn't do the trick.
 * Don't consume caffeine within 10 hours of your bedtime.
 * Don't drink alcohol - if you do, try to avoid it within 6 hours of your bed time.*
 * Don't do drugs.*
-* Avoid taking sleep medications if possible*
+* Avoid taking sleep medications if possible*. However, there are supplements and foods that are healthy and may help.
 
 *Most drugs, including some sleep medications, have a negative impact on the quality of your sleep. Even if they help you fall asleep, the overall quality of sleep will not be as high.
 
 [https://gmb.io/sleep/](https://gmb.io/sleep/)
 
 [https://hubermanlab.com/toolkit-for-sleep/](https://hubermanlab.com/toolkit-for-sleep/)
-
-#### Last word on sleep
-I understand this may seem excessive. I don't expect anyone to do it all. Not everyone needs it all. It's about being honest with yourself about your needs and finding what works for you.
 
 
 #### How to determine your ideal amount of sleep?
@@ -215,9 +213,19 @@ As mentioned above, feel free to add 15-30 minutes of buffer time to help ensure
 
 [Dr. Andrew Huberman podcast with Dr. Matthew Walker](https://hubermanlab.com/dr-matthew-walker-the-science-and-practice-of-perfecting-your-sleep/)
 
+#### Last word on sleep
+I understand this may seem excessive. I don't expect anyone to do it all. Not everyone needs it all. It's about being honest with yourself about your needs and finding what works for you.
+
+
 (Breaking down eating is next after how to improve sleep quality)
 
-## Eat Well.
+## Eat Clean. Eat Well.
+
+### What is clean eating?
+
+### Why is clean eating important?
+
+### How do I develop a clean eating lifestyle?
 
 Crash diets are not what I mean by eating well. Everyone loves losing weight fast. Many people go back to unhealthy eating habits after a crash diet. This leaves you very likely to gain back the weight. Not to mention being at risk for any number of health problems.
 
