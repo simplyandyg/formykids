@@ -218,9 +218,17 @@ I understand this may seem excessive. I don't expect anyone to do it all. Not ev
 
 (Breaking down eating is next after how to improve sleep quality)
 
-## Eat Clean. Eat Well.
+## Eat Clean.
 
 ### What is clean eating?
+
+Not eating processed food.
+
+Honestly, that's pretty much all there is to it. But I'll expand upon it anyway.
+
+Yo-yo dieting and crash diets
+
+It's a lifestyle choice more than it is a diet. And it's a guideline more than it is a hard and fast rule.
 
 ### Why is clean eating important?
 
@@ -277,7 +285,7 @@ The 3 most important things to remember when exercising are:
 2. Take it slow.
 3. Be consistent.
 
-Proper form is the most important because it helps prevent setbacks due to injury.
+Proper form is the **most important** because it helps prevent setbacks due to injury. **Form is SUPER IMPORTANT** whether it's heavy lifting or consistently running a decent amount you will end up with injuries if your form is bad.
 
 Be patient. Taking your time to learn proper form and not worrying about ramping up workout intensity quickly will help prevent injuries, which means progress will be steady and consistent. This will lead to the results you are looking for in a way that won’t ruin your body.
 
