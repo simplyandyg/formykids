@@ -26,6 +26,7 @@ If you could only teach someone 5 things. What would you teach them?
 - Sleep, exercise, diet
 - Be open and vulnerable, but don't get walked on. Limit the numbers of times a single person can screw you over.
 - Active Listening
+- life is about relationships, not money - https://twitter.com/simplyandyg/status/1460313930094555139?t=lOwPAMaC0c3_shRvA-_L7A&s=19
 - Take time to do things you enjoy no matter how "busy" you are. - leading into Essentialism. Strip away the things that are not important to you or your goals.
 - Do the right thing
 - Why doing the right thing can so often have difficult or hurtful consequences - why making people upset doesn’t mean you necessarily did the wrong thing - why often you can try to become a better person and it feels impossible because things keep going wrong and how to deal with it
@@ -308,6 +309,7 @@ Make sure to connect the articles that are related even if by only a link
 * Don't underestimate the power of convenience. People will trade a whole lot to make things more convenient in the "now"
 * Most people are average… and that's a good thing
     * Talk about the bell curve and how most people fall in the middle. Explicitly state what percentage of people fall within ex sigma. Then describe how the reason that's good is for things like politics and the way people act. And how this all applies to show that the crazy opinions and the crazy people we see in media and on the internet and going viral do not represent the vast majority of us. And the vast majority of us just want what we think is best we don't want to be bothered with other people's lives we just want to do what we want to do.
+* Truth in the age of the internet - https://twitter.com/simplyandyg/status/1460242977742229504?t=tt12EuuVARPRBwwQN0VHFQ&s=19
 
 This was a topic that was under morality… not sure what I meant by it or where it should be
 
