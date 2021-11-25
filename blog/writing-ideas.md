@@ -27,6 +27,7 @@ If you could only teach someone 5 things. What would you teach them?
 - Be open and vulnerable, but don't get walked on. Limit the numbers of times a single person can screw you over.
 - Active Listening
 - life is about relationships, not money - https://twitter.com/simplyandyg/status/1460313930094555139?t=lOwPAMaC0c3_shRvA-_L7A&s=19
+- always remember your not better than anyone else. Treat everyone with respect because at the end of the day you're still a parasitic spawn that fell out of your mother's vagina covered in slime and shit while flying on a space rock in a circle around a ball of fire. And there's trillions of those rocks and balls of fire. And your just the tiniest speck of dust in the sands of time and space. (Include other similar quotes)
 - Take time to do things you enjoy no matter how "busy" you are. - leading into Essentialism. Strip away the things that are not important to you or your goals.
 - Do the right thing
 - Why doing the right thing can so often have difficult or hurtful consequences - why making people upset doesn’t mean you necessarily did the wrong thing - why often you can try to become a better person and it feels impossible because things keep going wrong and how to deal with it
@@ -341,3 +342,7 @@ The idea here was that I would post this to everythingschoolforgot.com and my tw
 **What is focus?**
 
 [https://twitter.com/simplyandyg/status/1400268161614635010](https://twitter.com/simplyandyg/status/1400268161614635010)
+
+
+Truth in the age of the internet
+https://twitter.com/simplyandyg/status/1460242977742229504?t=F0iJjxiSGMYtwAds4e0kow&s=19
